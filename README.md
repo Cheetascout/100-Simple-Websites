@@ -1,8 +1,10 @@
-# 100 Simple Websites
+# 100 Simple Websites 🌐
 
 Welcome to the **100 Simple Websites** repository! 🚀
 
 This collection of 100 easy-to-build, beginner-friendly websites is designed to help you dive into the world of web development. Whether you're just starting out or looking to sharpen your skills, these projects cover a wide range of concepts and technologies that will boost your front-end development expertise. 🌐
+
+👉 **Check out the repository here**: [100-Simple-Websites](https://github.com/AdilShamim8/100-Simple-Websites)
 
 ## What to Expect? 🔍
 - **HTML, CSS, and JavaScript** based websites.
@@ -18,28 +20,16 @@ This collection of 100 easy-to-build, beginner-friendly websites is designed to 
 
 ## Websites Included 🔥
 Here’s a sneak peek of some of the websites you’ll build:
-- A personal portfolio site
-- To-Do List app
-- Interactive quiz game
-- Countdown timer
-- Calculator
-- And much more!
+- A **personal portfolio site** 🌟
+- **To-Do List app** 📝
+- **Interactive quiz game** 🎮
+- **Countdown timer** ⏳
+- **Calculator** ➗
+- And much more! 😎
+
+Each project is crafted to help you build real-world skills while boosting your confidence as a web developer.
 
 ## How to Get Started 🚀
 1. **Clone the Repository**  
-   `git clone https://github.com/yourusername/100-Simple-Websites.git`
-   
-2. **Choose a Project**  
-   Browse the list of websites, pick a project that excites you, and get started! 🎨
-
-3. **Build & Learn**  
-   Dive into the code, make improvements, and test your new skills! 💻
-
-## Contribute ✨
-Got ideas for a new project or want to fix something? Feel free to fork this repo and submit a pull request! Let's learn and grow together. 🤝
-
-## Happy Coding! 👨‍💻👩‍💻
-
----
-
-Feel free to check out any of the projects and start building your own version. Happy coding and welcome to your web development journey! 🌟
+   ```bash
+   git clone https://github.com/AdilShamim8/100-Simple-Websites.git
