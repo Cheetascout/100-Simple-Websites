@@ -1,46 +1,43 @@
-# 🌟 100 Simple Websites 🌐  
+<h1 align="center">🌟 100 Simple Websites 🌐</h1>
 
-Welcome to **100 Simple Websites** — a curated collection of 100 beginner-friendly projects to help you learn and master web development! 🚀  
+<p align="center">
+   A collection of 100 beginner-friendly websites to kickstart your web development journey! 💻🚀  
+   <br>
+   <strong>Build. Learn. Create. 🚀</strong>
+</p>
 
-Each project is simple yet powerful, focusing on essential **HTML**, **CSS**, and **JavaScript** concepts. Whether you’re a beginner or someone brushing up on their skills, this repository is your playground for creativity and growth. 🎨💻  
-
----
-
-## 🔍 **What is this Repository About?**  
-
-- ✅ **HTML, CSS, and JavaScript** based projects.  
-- ✅ **Creative & Interactive Designs** to make learning fun.  
-- ✅ **Real-World Skills** with hands-on coding practice.  
-- ✅ **100 Unique Projects** to inspire and challenge you.  
-
----
-
-## 🚀 **What Will You Build?**  
-
-Here’s a sneak peek at some of the projects you’ll create:  
-
-| 🌐 Project Title           | 💡 Description                       | 🔥 Tech Stack            |
-|----------------------------|--------------------------------------|--------------------------|
-| 🌟 Personal Portfolio      | Showcase your skills and projects.   | HTML, CSS               |
-| 📝 To-Do List App          | Add, delete, and manage tasks.       | HTML, CSS, JS           |
-| 🎮 Interactive Quiz Game   | A fun, dynamic quiz with scores.     | HTML, CSS, JS           |
-| ⏳ Countdown Timer         | Build a timer for events or tasks.   | HTML, CSS, JS           |
-| ➗ Simple Calculator        | Perform basic arithmetic operations. | HTML, CSS, JS           |  
-| 🎨 Responsive Landing Page | A modern, mobile-friendly design.    | HTML, CSS               |
-
-…and **95 more projects** waiting for you to explore! 🎉  
+<p align="center">
+   <img src="https://img.shields.io/github/stars/AdilShamim8/100-Simple-Websites?style=social" alt="GitHub Stars">
+   <img src="https://img.shields.io/github/forks/AdilShamim8/100-Simple-Websites?style=social" alt="GitHub Forks">
+   <img src="https://img.shields.io/badge/HTML%20%7C%20CSS%20%7C%20JavaScript-%20🎨-blueviolet">
+   <br>
+   <a href="https://github.com/AdilShamim8/100-Simple-Websites">View on GitHub 🚀</a>
+</p>
 
 ---
 
-## 📂 **Project Structure**  
+## 🎯 **What’s Inside?**
 
-Each project is organized into its own folder for easy navigation:  
+This repository is a playground of **100 easy-to-build websites** focused on mastering **HTML**, **CSS**, and **JavaScript** fundamentals. These projects are beginner-friendly, hands-on, and creatively designed to inspire you. 🌈
 
-```plaintext
-100-Simple-Websites/
-│
-├── Project-01/  -> HTML, CSS, and JS files
-├── Project-02/
-├── Project-03/
-...
-└── Project-100/
+| 🚀 **What You'll Build** | 💻 **Tech Stack**   | 🧩 **Key Concepts**          |
+|--------------------------|--------------------|------------------------------|
+| 🌟 Personal Portfolio    | HTML, CSS          | Layout, Responsive Design    |
+| 📝 To-Do List App        | HTML, CSS, JS      | DOM Manipulation, Events     |
+| 🎮 Quiz Game             | HTML, CSS, JS      | Interactivity, Logic         |
+| ⏳ Countdown Timer       | HTML, CSS, JS      | Dynamic Updates              |
+| ➗ Calculator            | HTML, CSS, JS      | Functions, Event Handling    |
+| 🎨 Landing Page          | HTML, CSS          | Typography, Flexbox/Grid     |
+
+> ...and **95 more projects** that will sharpen your coding skills! 🚀
+
+---
+
+## 🔧 **How to Get Started**
+
+Ready to dive in? Follow these steps:
+
+1. **Fork & Clone the Repository**  
+   ```bash
+   git clone https://github.com/AdilShamim8/100-Simple-Websites.git
+   cd 100-Simple-Websites
